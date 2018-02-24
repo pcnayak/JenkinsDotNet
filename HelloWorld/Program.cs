@@ -11,12 +11,12 @@ namespace HelloWorld
         private static void Main(string[] args)
         {
             Console.WriteLine(CreateMessage());
-            //Test Commit 6.
+            //Test Commit 7.
         }
 
         public static string CreateMessage()
         {
-            return "Hello World!";
+            return "Hello World";
         }
     }
 }
