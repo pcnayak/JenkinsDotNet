@@ -11,7 +11,7 @@ namespace HelloWorld
         private static void Main(string[] args)
         {
             Console.WriteLine(CreateMessage());
-            //Test Commit 2
+            //Test Commit 2.
         }
 
         public static string CreateMessage()
